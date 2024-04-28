@@ -1,0 +1,46 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.11.5",
+    "heartbeatAt": "2023-12-04T16:32:10.045560",
+    "startedAt": "2023-12-04T16:32:08.991741",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "JonZ_Laptop",
+    "username": "jonlc",
+    "executable": "c:\\Users\\jonlc\\anaconda3\\envs\\bestpytorch\\python.exe",
+    "cpu_count": 24,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 2200.0,
+        "min": 0.0,
+        "max": 2200.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2200.0,
+            "min": 0.0,
+            "max": 2200.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1906.8066368103027,
+            "used": 128.29815673828125
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4090 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090 Laptop GPU",
+            "memory_total": 17171480576
+        }
+    ],
+    "memory": {
+        "total": 31.646926879882812
+    }
+}
